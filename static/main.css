@@ -161,3 +161,7 @@ button.turn:hover {
   font-weight: bold;
   font-style: italic;
 }
+
+li {
+  border-bottom: gainsboro thin solid;
+}
